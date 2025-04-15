@@ -1,0 +1,10 @@
+import  'react'
+
+ const ProductAdmin = () => {
+  return (
+    <div>
+      ProductAdmin
+    </div>
+  )
+}
+export default ProductAdmin
