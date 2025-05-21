@@ -1,5 +1,6 @@
 // import { userDetails } from "../../../server/controllers/user.controller"
 
+
 export const baseURL="http://localhost:8080"
 
 const SummaryApi={
@@ -85,6 +86,10 @@ createProduct : {
 },
 getProduct : {
   url : '/api/product/get',
+  method : 'post'
+},
+getProductByCategory : {
+  url : '/api/product/get-product-by-category',
   method : 'post'
 }
 }
