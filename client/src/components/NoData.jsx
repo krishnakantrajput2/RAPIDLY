@@ -1,5 +1,5 @@
 import 'react'
-import noDataImage from '../image/nothing here yet.webp'
+import noDataImage from '../Image/nothing here yet.webp'
 const NoData = () => {
   return (
     <div className='flex flex-col items-center justify-center p-4  gap-2'>
