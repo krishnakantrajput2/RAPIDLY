@@ -9,7 +9,7 @@ import AxiosToastError from '../utils/AxiosToastError';
 // import { useEffect } from 'react';
 
 // eslint-disable-next-line react/prop-types
-const UploadSubCategoryModel = ({close, fetchData}) => {
+export const UploadSubCategoryModel = ({close, fetchData}) => {
     const [subCategoryData,setSubCategoryData] = useState({
         name : "",
         image : "",
