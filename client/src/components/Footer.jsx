@@ -14,7 +14,7 @@ export const Footer = () => {
         <a href="" className="hover:text-primary-100">
         <FaInstagram />
           </a>
-          <a href="" className="hover:text-primary-100">
+          <a href="https://www.linkedin.com/in/krishnakant-rajput-a45b40293/" className="hover:text-primary-100">
           <FaLinkedin />
           </a>
         </div>
