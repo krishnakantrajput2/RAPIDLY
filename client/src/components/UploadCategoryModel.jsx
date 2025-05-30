@@ -1,7 +1,7 @@
 import "react";
 import { useState } from "react";
 import { IoIosClose } from "react-icons/io";
-import uploadImage from "../utils/uploadImage";
+import uploadImage from "../utils/Uploadimage";
 import Axios from "../utils/Axios";
 import SummaryApi from "../common/SummaryApi";
 import toast from "react-hot-toast";
